@@ -8,8 +8,11 @@ I decided to build this initially as a thermometer in a bag, as I was tired of g
 A messenger style bag with a lined flap is easiest for putting the sensor and screen in, but you can pin it to the outside of any bag.
 
 A Pimoroni Badger 2040 (https://shop.pimoroni.com/products/badger-2040?variant=39752959852627)
+
 A CO2 sensor (I used the Pimoroni SCD41 breakout https://shop.pimoroni.com/products/scd41-co2-sensor-breakout?variant=39652270833747)
+
 A way to connect them (Pimorni also supply a handy cable https://shop.pimoroni.com/products/jst-sh-cable-qwiic-stemma-qt-compatible?variant=31910609813587, but you could wire them up however you're comfortable)
+
 A power supply (I went with a powerbank, as I'd be carrying the handbag anyway, and it should be useful for charging phones/headphones on the go)
 
 ## Code
